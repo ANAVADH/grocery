@@ -1,0 +1,84 @@
+{
+    "list":[
+      {
+        "slN": "1",
+        "item": "Apple",
+        "quantity": "12",
+        "unit": "kg",
+        "price": "20$",
+        "status": "Fresh"
+      },
+      {
+        "slN": "2",
+        "item": "Orange",
+        "quantity": "3",
+        "unit": "kg",
+        "price": "8$",
+        "status": "medium fresh"
+      },
+      {
+        "slN": "3",
+        "item": "Grapes",
+        "quantity": "50",
+        "unit": "kg",
+        "price": "85$",
+        "status": "ultra fresh"
+      },
+      {
+        "slN": "4",
+        "item": "Pineapple",
+        "quantity": "6",
+        "unit": "kg",
+        "price": "4$",
+        "status": "Fresh"
+      },
+      {
+        "slN": "5",
+        "item": "Mulbury",
+        "quantity": "2",
+        "unit": "kg",
+        "price": "1$",
+        "status": "not fresh"
+      },
+      {
+        "slN": "6",
+        "item": "Mango",
+        "quantity": "8",
+        "unit": "kg",
+        "price": "6$",
+        "status": "Medium fresh"
+      },
+      {
+        "slN": "7",
+        "item": "Banana",
+        "quantity": "10",
+        "unit": "kg",
+        "price": "12$",
+        "status": "not fresh"
+      },
+      {
+        "slN": "8",
+        "item": "onion",
+        "quantity": "7",
+        "unit": "kg",
+        "price": "50$",
+        "status": "Medium fresh"
+      },
+      {
+        "slN": "9",
+        "item": "Tomato",
+        "quantity": "5",
+        "unit": "kg",
+        "price": "8$",
+        "status": "Fresh"
+      },
+      {
+        "slN": "10",
+        "item": "Butter",
+        "quantity": "14",
+        "unit": "kg",
+        "price": "188$",
+        "status": "ultra fresh"
+      }
+     
+    ]}
